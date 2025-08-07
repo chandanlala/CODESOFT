@@ -10,7 +10,7 @@
 <body>
   <header>
     <div class="container">
-      <h1>Shivani Verma</h1>
+      <h1>Mayank Dixit</h1>
       <p>Web Developer & Creative Designer</p>
     </div>
   </header>
@@ -91,7 +91,7 @@ CSS is used to style the layout, colors, fonts, and overall appearance to make i
 
   <footer>
     <div class="container">
-      <p>&copy; 2025 Shivani Verma. All Rights Reserved.</p>
+      <p>&copy; 2025 Mayank Dixit. All Rights Reserved.</p>
     </div>
   </footer>
 </body>
